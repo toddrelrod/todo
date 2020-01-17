@@ -1,0 +1,32 @@
+/* Font Family Starts */
+@import url('https://fonts.googleapis.com/css?family=Calistoga|Roboto&display=swap');
+/* font-family: 'Calistoga', cursive; */
+/* font-family: 'Roboto', sans-serif; */
+/* Font Family Ends */
+
+main{
+    background-color: rgb(65, 79, 83);
+    font-family: 'Baloo', cursive;
+    top: 0;
+    Margin: auto;
+    height: auto;
+    width: 800px;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+div{
+    margin: 100px;
+}
+ul{
+    padding: 10px;
+    display: flexbox;
+}
+li{
+    list-style-type:none; 
+    padding: 10px;
+    justify-content: space-around;
+}
+.center {
+    font-family: 'Baloo', cursive;
+    text-align:center;
+}
